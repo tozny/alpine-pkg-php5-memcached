@@ -1,6 +1,6 @@
 # Contributor: Sasha Gerrand <alpine-pkgs@sgerrand.com>
 # Maintainer: Sasha Gerrand <alpine-pkgs@sgerrand.com>
-_php=php5
+_php=php
 pkgname=$_php-memcached
 _pkgrealname=memcached
 pkgver=2.2.0
